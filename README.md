@@ -33,11 +33,11 @@
 <h2 id="a">🎯 规则订阅</h2>
 
 ```
-更新时间: 2024-10-07 09:42:31 （北京时间） 
+更新时间: 2024-10-10 09:39:08 （北京时间） 
 
-拦截规则数量: 209766 
-DNS拦截规则数量: 100347 
-白名单规则数量: 14605 
+拦截规则数量: 209384 
+DNS拦截规则数量: 99905 
+白名单规则数量: 14600 
 ``` 
 <details open>
 <summary>规则列表</summary>
@@ -47,6 +47,8 @@ DNS拦截规则数量: 100347
 - **[拦截规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/adblock.txt)**
 - **[DNS拦截规则（Github）](https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt)**
 - **[DNS拦截规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt)**
+- **[Qx规则（Github）](https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/qx.list)**
+- **[Qx规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/qx.list)**
 - **[白名单（Github）](https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt)**
 - **[白名单(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt)**
 
